@@ -41,7 +41,7 @@ else:
 
 #iteration over sequence of tuples of varying length
 records = [
-            ('foo', 1, 2)
+             ('foo', 1, 2)
             ,('bar', 'hello')
             ,('foo', 3, 4)
           ]
@@ -56,7 +56,7 @@ def do_bar(x):
 for tag, *num in records:
     if tag == 'foo':
         do_foo(*num)
-    elif tag =='bar':
+    elif tag == 'bar':
         do_bar(*num)
 
 #unpack string
