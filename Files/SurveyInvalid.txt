@@ -1,0 +1,465 @@
+﻿Msg 208, Level 16, State 1, Procedure fEvalQuestionLabel, Line 38
+Invalid object name 'SliceLabel'.
+Msg 208, Level 16, State 1, Procedure DateMonthYear, Line 4
+Invalid object name 'Date'.
+Msg 208, Level 16, State 1, Procedure vw_CustomerTypeRegionUnit, Line 15
+Invalid object name 'Unit'.
+Msg 208, Level 16, State 1, Procedure vw_CustThruSubUnit, Line 18
+Invalid object name 'Unit'.
+Msg 208, Level 16, State 1, Procedure AESScoreByUnitDeptQuestion, Line 26
+Invalid object name 'vCampaignDisplay'.
+Msg 208, Level 16, State 1, Procedure AESScoreByUnitQuestion, Line 21
+Invalid object name 'Unit'.
+Msg 208, Level 16, State 1, Procedure ansBaymont1, Line 4
+Invalid object name 'SCHMOHAWK.dbo.ansBaymont1'.
+Msg 208, Level 16, State 1, Procedure ansSecure, Line 11
+Invalid object name 'vw_UnitDemo'.
+Msg 208, Level 16, State 1, Procedure ansTarsadia140, Line 4
+Invalid object name 'CRC.dbo.ansTarsadia140'.
+Msg 7202, Level 11, State 2, Procedure Campaign_Schmo, Line 3
+Could not find server 'MMWEB' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers.
+Msg 208, Level 16, State 1, Procedure Category, Line 4
+Invalid object name 'Problem1.dbo.Category'.
+Msg 208, Level 16, State 1, Procedure CustIndustryAvgWCI, Line 1
+Invalid object name 'DataWarehouse.dbo.CustIndustryAvgWCI'.
+Msg 208, Level 16, State 1, Procedure CustomerProblemSeverity, Line 4
+Invalid object name 'Problem1.dbo.CustomerProblemSeverity'.
+Msg 208, Level 16, State 1, Procedure DeptType, Line 4
+Invalid object name 'ERM1.dbo.DeptType'.
+Msg 208, Level 16, State 1, Procedure DruryEventsToDelete, Line 4
+Invalid object name 'CRC.dbo.DruryEventsToDelete'.
+Msg 208, Level 16, State 1, Procedure EntryTracker, Line 4
+Invalid object name 'Problem1.dbo.EntryTracker'.
+Msg 208, Level 16, State 1, Procedure FactCompetitor, Line 4
+Invalid object name 'reporting.dbo.FactCompetitor'.
+Msg 208, Level 16, State 1, Procedure FactDemoChoice, Line 4
+Invalid object name 'reporting.dbo.FactDemoChoice'.
+Msg 208, Level 16, State 1, Procedure FactEval, Line 5
+Invalid object name 'DataWarehouse.dbo.FactEval'.
+Msg 208, Level 16, State 1, Procedure FactEvalOutlet, Line 5
+Invalid object name 'DataWarehouse.dbo.FactEvalOutlet'.
+Msg 208, Level 16, State 1, Procedure FactHilton, Line 1
+Invalid object name 'DataWarehouse.dbo.FactHilton'.
+Msg 208, Level 16, State 1, Procedure factIndustryAverage, Line 5
+Invalid object name 'reporting.dbo.factIndustryAverage'.
+Msg 7202, Level 11, State 2, Procedure factIndustryAverageOutlet, Line 5
+Could not find server 'mmdb2' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers.
+Msg 208, Level 16, State 1, Procedure FactUnitSent, Line 4
+Invalid object name 'reporting.dbo.FactUnitSent'.
+Msg 208, Level 16, State 1, Procedure IndustryAverageNew, Line 34
+Invalid object name 'Unit'.
+Msg 208, Level 16, State 1, Procedure IndustryAverageOutlet, Line 38
+Invalid object name 'Unit'.
+Msg 208, Level 16, State 1, Procedure IndustryAverageProblem, Line 44
+Invalid object name 'Unit'.
+Msg 208, Level 16, State 1, Procedure IndustryAverageSecure, Line 95
+Invalid object name 'Unit'.
+Msg 208, Level 16, State 1, Procedure IndustryAverageSecureOutlet, Line 101
+Invalid object name 'Unit'.
+Msg 208, Level 16, State 1, Procedure Issue, Line 4
+Invalid object name 'Problem1.dbo.Issue'.
+Msg 208, Level 16, State 1, Procedure JB_Reminder1, Line 7
+Invalid object name 'dbo.UnitParticipantInfo'.
+Msg 208, Level 16, State 1, Procedure keith, Line 5
+Invalid object name 'dbo.UnitParticipantInfo'.
+Msg 208, Level 16, State 1, Procedure LowesMonth2, Line 10
+Invalid object name 'Unit'.
+Msg 208, Level 16, State 1, Procedure MgrEntered, Line 4
+Invalid object name 'Problem1.dbo.MgrEntered'.
+Msg 208, Level 16, State 1, Procedure partTHC1, Line 4
+Invalid object name 'CRC.dbo.partTHC1'.
+Msg 208, Level 16, State 1, Procedure test, Line 5
+Invalid object name 'vw_UnitEvalAnswers'.
+Msg 208, Level 16, State 1, Procedure UnitSent, Line 4
+Invalid object name 'reporting.dbo.UnitSent'.
+Msg 208, Level 16, State 1, Procedure vAssigneeIssue, Line 4
+Invalid object name 'Problem1.dbo.vAssigneeIssue'.
+Msg 208, Level 16, State 1, Procedure vBlockSlice, Line 7
+Invalid object name 'ReportBlock'.
+Msg 208, Level 16, State 1, Procedure vBlockSliceDept, Line 7
+Invalid object name 'ReportBlock'.
+Msg 208, Level 16, State 1, Procedure vCampaignDisplay, Line 61
+Invalid object name 'dbo.vCombinedCampaign'.
+Msg 208, Level 16, State 1, Procedure vCampaignDisplayAll, Line 59
+Invalid object name 'dbo.vCombinedCampaignAll'.
+Msg 208, Level 16, State 1, Procedure vChoices, Line 4
+Invalid object name 'reporting.dbo.vChoices'.
+Msg 208, Level 16, State 1, Procedure vCSByOutlet, Line 8
+Invalid object name 'dbo.FactEvalOutlet'.
+Msg 208, Level 16, State 1, Procedure vDumpOakwood, Line 23
+Invalid object name 'dbo.vOakwoodHomeServicesCSbyEvent'.
+Msg 208, Level 16, State 1, Procedure vEditComments, Line 15
+Invalid object name 'special.dbo.vw_CustomerTypeRegionUnit'.
+Msg 208, Level 16, State 1, Procedure VIEW2, Line 6
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vInstance, Line 4
+Invalid object name 'DataWarehouse.dbo.vInstance'.
+Msg 7202, Level 11, State 2, Procedure vMMHI, Line 6
+Could not find server 'MMWEB' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers.
+Msg 208, Level 16, State 1, Procedure vOakWelcomeCalls, Line 7
+Invalid object name 'dbo.Issue'.
+Msg 208, Level 16, State 1, Procedure vOakwoodPartDump, Line 9
+Invalid object name 'dbo.vSurveyProgress'.
+Msg 208, Level 16, State 1, Procedure vProblemCategory1, Line 5
+Invalid object name 'dbo.Category'.
+Msg 208, Level 16, State 1, Procedure vQuestionOutlet, Line 26
+Invalid object name 'crc.dbo.outlet'.
+Msg 208, Level 16, State 1, Procedure vResponse, Line 30
+Invalid object name 'dbo.vw_ProblemFilter'.
+Msg 207, Level 16, State 1, Procedure vSurveyCountOutlet, Line 16
+Invalid column name ''.
+Msg 208, Level 16, State 1, Procedure vUser, Line 53
+Invalid object name 'CRC.dbo.Type'.
+Msg 208, Level 16, State 1, Procedure vw_107Subs, Line 13
+Invalid object name 'UnitParticipantInfo_old'.
+Msg 208, Level 16, State 1, Procedure vw_AltSurveyDisplay, Line 9
+Invalid object name 'dbo.vw_SurveyDisplayQuestions'.
+Msg 208, Level 16, State 1, Procedure vw_AltSurveyDisplayTemp, Line 9
+Invalid object name 'dbo.vw_SurveyDisplayQuestions'.
+Msg 208, Level 16, State 1, Procedure vw_AltTextES, Line 10
+Invalid object name 'vw_SurveyDisplayQuestionsAlt'.
+Msg 208, Level 16, State 1, Procedure vw_AnsAveBrand, Line 13
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_AnsAveBrandDec, Line 13
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_AnsAveBrandDirect, Line 10
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_AnsAveDec, Line 10
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_AnsAveDirect, Line 8
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_AnsAveType, Line 12
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_AnsAveTypeDec, Line 12
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_AnsAveTypeDirect, Line 8
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_ansWeight, Line 7
+Invalid object name 'dbo.vw_CampaignUnitSurvey'.
+Msg 208, Level 16, State 1, Procedure vw_AnswerAverage, Line 10
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_AnswerByType, Line 4
+Invalid object name 'CustomerSatisfaction.dbo.vw_AnswerByType'.
+Msg 208, Level 16, State 1, Procedure vw_BrandClassCS, Line 11
+Invalid object name 'vw_UnitEvalAnswers'.
+Msg 208, Level 16, State 1, Procedure vw_BrandCS, Line 6
+Invalid object name 'dbo.vw_UnitEvalAnswers'.
+Msg 208, Level 16, State 1, Procedure vw_BrandDemo, Line 9
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_BrandDemoQuarter, Line 7
+Invalid object name 'vw_BrandDemo'.
+Msg 208, Level 16, State 1, Procedure vw_BrianTestDeleteMe1, Line 14
+Invalid object name 'vw_SurveyDisplayQuestionsAlt'.
+Msg 208, Level 16, State 1, Procedure vw_ClassByQuestion, Line 10
+Invalid object name 'vw_UnitEvalAnswers'.
+Msg 208, Level 16, State 1, Procedure vw_CommentAnswersDW, Line 33
+Invalid object name 'DataWarehouse.dbo.DimensionInstance'.
+Msg 208, Level 16, State 1, Procedure vw_CommentAnswersUG, Line 36
+Invalid object name 'Datawarehouse.dbo.DimensionInstanceAll'.
+Msg 208, Level 16, State 1, Procedure vw_CommentAnswersWithDepartment, Line 14
+Invalid object name 'dbo.vw_UPIID_Q2104'.
+Msg 208, Level 16, State 1, Procedure vw_CommentAnswersWithDepartmentEBD, Line 44
+Invalid object name 'dbo.vw_UPIID_Q2104'.
+Msg 208, Level 16, State 1, Procedure vw_CommittedEmployees, Line 9
+Invalid object name 'vw_UnitDemo'.
+Msg 208, Level 16, State 1, Procedure vw_CompanySatisfied, Line 7
+Invalid object name 'vw_UnitFivEvalAnswers'.
+Msg 208, Level 16, State 1, Procedure vw_ConnectedQuest, Line 9
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_CountAnsByQ, Line 7
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_CountByQ, Line 6
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_CountbyQuarterSub, Line 8
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_CountOnesByQ, Line 6
+Invalid object name 'vw_InstanceByMonth'.
+Msg 208, Level 16, State 1, Procedure vw_CountUnitRec, Line 6
+Invalid object name 'vw_UnitDemo'.
+Msg 208, Level 16, State 1, Procedure vw_CountUnitRet, Line 6
+Invalid object name 'vw_UnitDemo'.
+Msg 208, Level 16, State 1, Procedure vw_CountUnitRetESA, Line 6
+Invalid object name 'vw_UnitDemo'.
+Msg 208, Level 16, State 1, Procedure vw_CustDemo, Line 9
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_CustFivClass, Line 10
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_CustomerQuarterCS, Line 8
+Invalid object name 'vw_UEvalAnsNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_DemographicAnswers, Line 21
+Invalid object name 'vw_DemographicAnswers0'.
+Msg 208, Level 16, State 1, Procedure vw_DeptTypeDisplay, Line 7
+Invalid object name 'dbo.DeptType'.
+Msg 208, Level 16, State 1, Procedure vw_ESbyDept, Line 7
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_ESbyDeptClass, Line 6
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_ESClassQuestion, Line 7
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_ESClassQuestionProg, Line 6
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_ESCountDept, Line 6
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_ESDeptClassQuestion, Line 8
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_ESDeptUnit, Line 6
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_ESUnitClassQuestion, Line 7
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_EventCS_DefaultSurvey, Line 7
+Invalid object name 'dbo.vw_SurveyDisplayQuestions'.
+Msg 208, Level 16, State 1, Procedure vw_EventCS_Sub, Line 6
+Invalid object name 'DataWarehouse.dbo.vEvals'.
+Msg 208, Level 16, State 1, Procedure vw_FivClassUnit, Line 11
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_FivEvalAnswers, Line 11
+Invalid object name 'dbo.vw_UPIID_Q2104'.
+Msg 208, Level 16, State 1, Procedure vw_FivEvalAnswersEBD, Line 16
+Invalid object name 'dbo.vw_UPIID_Q2104'.
+Msg 208, Level 16, State 1, Procedure vw_FivGrpClass, Line 10
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_FivGrpClassUnit, Line 10
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_FivSurvQuestions, Line 7
+Invalid object name 'vw_SurveyDisplayQuestionsAlt'.
+Msg 208, Level 16, State 1, Procedure vw_FollowUpQID, Line 7
+Invalid object name 'vw_SurveyDisplayQuestions'.
+Msg 208, Level 16, State 1, Procedure vw_InsecureEmotions, Line 7
+Invalid object name 'vw_InstDemoAns'.
+Msg 208, Level 16, State 1, Procedure vw_InstDemoAns, Line 9
+Invalid object name 'vw_InstMasterNoSub'.
+Msg 208, Level 16, State 1, Procedure vw_IntCommitted, Line 8
+Invalid object name 'vw_InstDemoAns'.
+Msg 208, Level 16, State 1, Procedure vw_IntSecure, Line 8
+Invalid object name 'vw_InstDemoAns'.
+Msg 208, Level 16, State 1, Procedure vw_IssueInfoOak, Line 6
+Invalid object name 'dbo.Issue'.
+Msg 208, Level 16, State 1, Procedure vw_IssueUnitRegionType, Line 5
+Invalid object name 'dbo.Issue'.
+Msg 208, Level 16, State 1, Procedure vw_JamesonLoyalty, Line 19
+Invalid object name 'ansDemoSurvID252'.
+Msg 208, Level 16, State 1, Procedure vw_nullarr, Line 4
+Invalid object name 'CRC.dbo.vw_EmailCampaignParticipants'.
+Msg 208, Level 16, State 1, Procedure vw_ParticipantCS, Line 14
+Invalid object name 'vw_ProblemInstanceEvent'.
+Msg 208, Level 16, State 1, Procedure vw_ParticipantCS_DefaultSurvey, Line 15
+Invalid object name 'vw_EventCS_DefaultSurvey'.
+Msg 208, Level 16, State 1, Procedure vw_PArticipantCSSUb, Line 10
+Invalid object name 'dbo.vw_ProblemInstanceEvent'.
+Msg 208, Level 16, State 1, Procedure vw_ParticipantDepartment, Line 15
+Invalid object name 'vw_DeptTypeDisplay'.
+Msg 208, Level 16, State 1, Procedure vw_ProblemFilter_Issue, Line 13
+Invalid object name 'Problem1.dbo.Issue'.
+Msg 208, Level 16, State 1, Procedure vw_ProbPct, Line 5
+Invalid object name 'dbo.vw_UnitDemo'.
+Msg 208, Level 16, State 1, Procedure vw_QTextLang, Line 11
+Invalid object name 'vw_SurveyDisplayQuestionsAlt'.
+Msg 207, Level 16, State 1, Procedure vw_QuestionDisplay, Line 10
+Invalid column name 'QuestionID'.
+Msg 207, Level 16, State 1, Procedure vw_QuestionDisplay, Line 12
+Invalid column name 'QuestionID'.
+Msg 207, Level 16, State 1, Procedure vw_QuestionDisplay, Line 6
+Invalid column name 'Command'.
+Msg 208, Level 16, State 1, Procedure vw_Response, Line 15
+Invalid object name 'DataWarehouse.dbo.vEvals'.
+Msg 208, Level 16, State 1, Procedure vw_Response_Issue, Line 36
+Invalid object name 'Problem1..Issue'.
+Msg 208, Level 16, State 1, Procedure vw_SecureEmotions, Line 7
+Invalid object name 'vw_InstDemoAns'.
+Msg 208, Level 16, State 1, Procedure vw_StarwoodCampaignCounts, Line 10
+Invalid object name 'StarwoodCampaign'.
+Msg 7202, Level 11, State 2, Procedure vw_StarwoodCampaigns, Line 3
+Could not find server 'MMWEB' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers.
+Msg 208, Level 16, State 1, Procedure vw_SurveyCount3, Line 5
+Invalid object name 'dbo.FactEval'.
+Msg 208, Level 16, State 1, Procedure vw_SurveyDisplayPacificaTemp, Line 9
+Invalid object name 'dbo.SurveyDisplayPacificaTemp'.
+Msg 208, Level 16, State 1, Procedure vw_SurveyDisplayTemp, Line 8
+Invalid object name 'dbo.SurveyDisplayTemp'.
+Msg 208, Level 16, State 1, Procedure vw_test, Line 7
+Invalid object name 'dbo.vw_UnitParticipantInfo'.
+Msg 207, Level 16, State 1, Procedure vw_ThankYou1, Line 14
+Invalid column name 'SurveyID'.
+Msg 208, Level 16, State 1, Procedure vw_ThreeEvalAnswers, Line 11
+Invalid object name 'dbo.vw_UPIID_Q2104'.
+Msg 208, Level 16, State 1, Procedure vw_ThreeEvalAnswersEBD, Line 9
+Invalid object name 'dbo.vw_UPIID_Q2104'.
+Msg 208, Level 16, State 1, Procedure vw_UnitCSSubOutlet2, Line 6
+Invalid object name 'dbo.FactEvalOutlet'.
+Msg 208, Level 16, State 1, Procedure vw_UnitDept, Line 6
+Invalid object name 'DeptType'.
+Msg 7202, Level 11, State 2, Procedure vw_UnitParticipantsSchmo_old, Line 3
+Could not find server 'MMWEB' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers.
+Msg 208, Level 16, State 1, Procedure vw_UnitSent, Line 6
+Invalid object name 'DataWarehouse.dbo.FactUnitSent'.
+Msg 208, Level 16, State 1, Procedure vw_UPIIDandDept, Line 4
+Invalid object name 'vw_DeptTypeDisplay'.
+Msg 208, Level 16, State 1, Procedure vw_ValidRegMonths2, Line 4
+Invalid object name 'dbo.FactEval'.
+The module 'CustCompositeCSByBlockANDEmotion' depends on the missing object 'SummarizeEvalCust'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSByClassForYear' depends on the missing object 'SummarizeEvalCust'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSByClassForYear' depends on the missing object 'SummarizeEvalRegion'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSByClassForYear' depends on the missing object 'SummarizeEvalUnit'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForCustomerRegionsUnits' depends on the missing object 'EvalCSNoEmotionForMonth_a'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForCustomerRegionsUnits' depends on the missing object 'EvalCSEmotionOnlyForMonth_a'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForCustomerRegionsUnits' depends on the missing object 'EvalCSForQuestionMonth_a'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForCustomerRegionsUnits' depends on the missing object 'EvalCSForQuestionMonth_a'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForCustomerRegionsUnits' depends on the missing object 'DemoPercForQuestionMonth_a'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForCustomerRegionsUnits' depends on the missing object 'DemoPercForQuestionMonth_a'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForMonth_Matrix' depends on the missing object 'EvalCSNoEmotionForMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForMonth_Matrix' depends on the missing object 'EvalCSEmotionOnlyForMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForMonth_Matrix' depends on the missing object 'EvalCSForQuestionMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForMonth_Matrix' depends on the missing object 'EvalCSForQuestionMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForMonth_Matrix' depends on the missing object 'DemoPercForQuestionMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForMonth_Matrix' depends on the missing object 'DemoPercForQuestionMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForYear_Matrix' depends on the missing object 'SummarizeEvalCust'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForYear_Matrix' depends on the missing object 'SummarizeEvalRegion'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCompositeCSForYear_Matrix' depends on the missing object 'SummarizeEvalUnit'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCSByBlock' depends on the missing object 'SummarizeEvalCust'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCSByBlock' depends on the missing object 'SummarizeEvalByBlock'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustCSByBlockForMonth' depends on the missing object 'SummarizeEvalByBlockForMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustDemoCS' depends on the missing object 'SummarizeCustDemoForMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustDemoPercForQuestionByAnswerMonth' depends on the missing object 'SummarizeCustDemoByAnswer'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustDemoPercForQuestionByMonthAtValue' depends on the missing object 'SummarizeCustDemoByUnit'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustDivisionCSForYear_Matrix' depends on the missing object 'SummarizeEvalCust'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustDivisionCSForYear_Matrix' depends on the missing object 'SummarizeEvalRegion'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustDivisionCSForYear_Matrix' depends on the missing object 'SummarizeEvalUnit'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustEvalCSByClass' depends on the missing object 'SummarizeUnitEval'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustEvalCSByClass' depends on the missing object 'SummarizeUnitEvalByQuestion'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustEvalCSByClass' depends on the missing object 'SummarizeEvalCust'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustEvalCSByClass' depends on the missing object 'SummarizeEvalCustForMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustomerEvalCSNoEmotionByMonth' depends on the missing object 'MMHIComparisonByQuarter'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustResponseCountByMonth' depends on the missing object 'SummarizeResponseCust'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustResponseCountByMonth' depends on the missing object 'SummarizeResponseRegion'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'CustResponseCountByMonth' depends on the missing object 'SummarizeResponseUnit'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'DemoPercForQuestionMonth' depends on the missing object 'SummarizeCustDemoForMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'DemoPercForQuestionMonth_a' depends on the missing object 'SummarizeCustDemo_a'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'EvalCSByQuestion' depends on the missing object 'SummarizeEvalByQuestion'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'EvalCSByQuestionForBlock' depends on the missing object 'SummarizeEvalByQuestion'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'EvalCSByQuestionForBlockMMHI' depends on the missing object 'SummarizeEvalByQuestionMMHI'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'EvalCSByQuestionForMonth' depends on the missing object 'SummarizeEvalByQuestionForMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'EvalCSEmotionOnlyForMonth' depends on the missing object 'SummarizeCustEval'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'EvalCSEmotionOnlyForMonth_a' depends on the missing object 'SummarizeCustEval_a'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'EvalCSForQuestion' depends on the missing object 'SummarizeCustEvalForYear'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'EvalCSForQuestionMonth' depends on the missing object 'SummarizeCustEval'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'EvalCSForQuestionMonth_a' depends on the missing object 'SummarizeCustEval_a'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'EvalCSNoEmotionForMonth' depends on the missing object 'SummarizeCustEval'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'EvalCSNoEmotionForMonth_a' depends on the missing object 'SummarizeCustEval_a'. The module will still be created; however, it cannot run successfully until the object exists.
+Msg 102, Level 15, State 1, Procedure LoewsSpecialtySurvey, Line 250
+Incorrect syntax near '*='.
+Msg 102, Level 15, State 1, Procedure pAffiniaOutlet, Line 109
+Incorrect syntax near '*='.
+Msg 102, Level 15, State 1, Procedure pAffiniaOutlet, Line 279
+Incorrect syntax near '*'.
+Msg 102, Level 15, State 1, Procedure pAffiniaOutlet, Line 347
+Incorrect syntax near '*='.
+Msg 102, Level 15, State 1, Procedure pAffiniaOutlet, Line 542
+Incorrect syntax near '*'.
+Msg 102, Level 15, State 1, Procedure pAffiniaOutlet, Line 642
+Incorrect syntax near '*'.
+Msg 102, Level 15, State 1, Procedure pAffiniaOutlet, Line 680
+Incorrect syntax near '*'.
+Msg 102, Level 15, State 1, Procedure pAffiniaOutlet, Line 711
+Incorrect syntax near '*'.
+Msg 102, Level 15, State 1, Procedure pAffiniaOutlet, Line 734
+Incorrect syntax near '*='.
+The module 'Page7' depends on the missing object 'UnitCompositeDemoByMonthForQuestion'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'Page7' depends on the missing object 'UnitCompositeDemoByMonthForQuestion'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pBatteryCampaignSet' depends on the missing object 'dbo.pCreateSurvey'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pBatteryQuestionNew' depends on the missing object 'dbo.pCreateQuestion'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pBatteryQuestionSet' depends on the missing object 'dbo.pBatterySliceMove'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pBatteryQuestionSet' depends on the missing object 'dbo.pCreateQuestion'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pBatteryQuestionSet' depends on the missing object 'dbo.pBatteryQuestionSetText'. The module will still be created; however, it cannot run successfully until the object exists.
+Msg 207, Level 16, State 1, Procedure pCopySurveyMessageText, Line 23
+Invalid column name 'SurveyID'.
+Msg 207, Level 16, State 1, Procedure pCopySurveyMessageText, Line 41
+Invalid column name 'SurveyID'.
+The module 'pCreateSurveyLightClient' depends on the missing object 'Survey1..pInsertClient'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pCreateSurveyLightClient' depends on the missing object 'Survey1..pInsertCustomer'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pCreateSurveyLightClient' depends on the missing object 'Survey1..pMigrateNewCustomerToIS'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pCreateSurveyLightClient' depends on the missing object 'Survey1..pDashboardAdditionalLogic'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pDeleteWholeUPI' depends on the missing object 'dbo.syn_trn_spDeleteStay'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pDemoAllByQuestion' depends on the missing object 'dbo.pFillPeriod'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pDemoAllRank' depends on the missing object 'dbo.pFillPeriod'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pDemoAllTrend' depends on the missing object 'pFillTrendPeriod'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pESAHomeSpRep' depends on the missing object 'pYearMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pEvalAllByQuestion' depends on the missing object 'pFillPeriod'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pEvalAllRank' depends on the missing object 'pFillPeriod'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pEvalAllTrend' depends on the missing object 'pFillTrendPeriod'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pEvalByQuesMonthForUnitLast12' depends on the missing object 'UnitResponseCountByMonthRolling12'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pEvalByQuestion' depends on the missing object 'pFillPeriod'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pEvalOutletByQuestion' depends on the missing object 'pFillPeriod'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pEvalOutletByQuestion2' depends on the missing object 'pFillPeriod'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pEvalRank' depends on the missing object 'pFillPeriod'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pEvalTrend' depends on the missing object 'pFillTrendPeriod'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pGetEventProblemCategory' depends on the missing object 'Problem1.dbo.pGetCategory2'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pGetHeaderInfoRestricted' depends on the missing object 'pIdentityRoleGet'. The module will still be created; however, it cannot run successfully until the object exists.
+Msg 207, Level 16, State 1, Procedure pGetInvite, Line 14
+Invalid column name 'SurveyID'.
+Msg 207, Level 16, State 1, Procedure pGetThankYou, Line 20
+Invalid column name 'SurveyID'.
+Msg 207, Level 16, State 1, Procedure pGetThankYou2, Line 31
+Invalid column name 'SurveyID'.
+Msg 207, Level 16, State 1, Procedure pGetThankYou3, Line 25
+Invalid column name 'SurveyID'.
+Msg 207, Level 16, State 1, Procedure pGetThankYou4, Line 18
+Invalid column name 'SurveyID'.
+The module 'pIdentityLineageRebuild' depends on the missing object 'dbo.pIdentityLineageRebuildRecurse'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pIdentityLineageRebuild' depends on the missing object 'dbo.pIdentityLineageRebuildRecurse'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pIdentityNewUserFromServiceManager' depends on the missing object 'dbo.pIdentityUserSet'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pIdentityNewUserFromServiceManager' depends on the missing object 'dbo.pIdentityProfileSet'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pIdentityNewUserFromServiceManager' depends on the missing object 'dbo.pIdentityRoleSet'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pIdentityParticipantRestricted' depends on the missing object 'pIdentityRoleGet'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pIdentityUserSet' depends on the missing object 'dbo.pNewPassword'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pMasterScore' depends on the missing object 'pYearMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pOakIssueList' depends on the missing object 'Problem1.dbo.pIssueStatus'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pOakIssueList2' depends on the missing object 'Problem1.dbo.pIssueStatus'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pQuestionAnswerAdd' depends on the missing object 'pQuestionAnswerInsertSort'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pQuestionAnswerAdd' depends on the missing object 'dbo.pQuestionAnswerReSort'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pQuestionAnswerDelete' depends on the missing object 'dbo.pQuestionAnswerReSort'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'pQuestionAnswerMove' depends on the missing object 'dbo.pQuestionAnswerReSort'. The module will still be created; however, it cannot run successfully until the object exists.
+Msg 102, Level 15, State 1, Procedure pYearMonthRosen, Line 66
+Incorrect syntax near '*='.
+Msg 102, Level 15, State 1, Procedure pYearMonthRosen, Line 119
+Incorrect syntax near '*='.
+Msg 102, Level 15, State 1, Procedure pYearMonthRosen, Line 135
+Incorrect syntax near '*='.
+Msg 102, Level 15, State 1, Procedure pYearMonthRosen, Line 197
+Incorrect syntax near '*='.
+Msg 102, Level 15, State 1, Procedure pYearMonthRosen, Line 212
+Incorrect syntax near '*='.
+Msg 102, Level 15, State 1, Procedure pYearMonthRosen, Line 227
+Incorrect syntax near '*='.
+Msg 102, Level 15, State 1, Procedure pYearMonthRosen, Line 242
+Incorrect syntax near '*='.
+Msg 102, Level 15, State 1, Procedure pYearMonthRosen, Line 247
+Incorrect syntax near '*='.
+Msg 213, Level 16, State 1, Procedure sp_AddSurvey, Line 12
+Column name or number of supplied values does not match table definition.
+Msg 102, Level 15, State 1, Procedure sp_SecureScoreFromansDemoCustomerAA, Line 17
+Incorrect syntax near '*='.
+Msg 7202, Level 11, State 2, Procedure SummarizeEvalByQuestionForMonth, Line 20
+Could not find server 'MMWEB' in sys.servers. Verify that the correct server name was specified. If necessary, execute the stored procedure sp_addlinkedserver to add the server to sys.servers.
+The module 'UnitCompositeCSByMonth_Graph' depends on the missing object 'UnitEvalCSNoEmotionGraphByMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'UnitCompositeCSByMonth_Matrix' depends on the missing object 'UnitEvalCSNoEmotionByMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'UnitCompositeCSByMonth_Matrix' depends on the missing object 'UnitDemoPercForQuestionByMonthAtValue'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'UnitCompositeCSByMonth_Matrix' depends on the missing object 'UnitDemoPercForQuestionByMonthAtValue'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'UnitCompositeCSByMonth_Matrix' depends on the missing object 'UnitEvalCSForQuestionByMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'UnitCompositeCSByMonth_Matrix' depends on the missing object 'UnitEvalCSForQuestionByMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+The module 'UnitCompositeCSByMonth_Matrix' depends on the missing object 'UnitResponseCountByMonth'. The module will still be created; however, it cannot run successfully until the object exists.
+Msg 15007, Level 16, State 1, Line 1
+'alin' is not a valid login or you do not have permission.
+Msg 15007, Level 16, State 1, Line 1
+'bmitchell' is not a valid login or you do not have permission.
+Msg 15007, Level 16, State 1, Line 1
+'jmcdougal' is not a valid login or you do not have permission.
+Msg 15007, Level 16, State 1, Line 1
+'kamin' is not a valid login or you do not have permission.
+Msg 15007, Level 16, State 1, Line 1
+'lnash' is not a valid login or you do not have permission.
+Msg 15007, Level 16, State 1, Line 1
+'sgolik' is not a valid login or you do not have permission.
+Msg 15401, Level 16, State 1, Line 1
+Windows NT user or group 'SLMMX\svc-iis-cm' not found. Check the name again.
+Msg 15401, Level 16, State 1, Line 1
+Windows NT user or group 'SLMMX\svc-import-cm' not found. Check the name again.
