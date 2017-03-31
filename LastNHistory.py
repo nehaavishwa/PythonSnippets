@@ -2,7 +2,7 @@ __author__ = 'nvishwakarma'
 
 from collections import deque
 FILENAME =r'C:\PersonalProjects\PythonSnippets\Files\Example.txt'
-
+'This is test'
 
 def search(lines, pattern, history=5):
     previous_lines = deque(maxlen=history)
