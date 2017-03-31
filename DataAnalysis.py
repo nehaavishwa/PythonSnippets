@@ -5,6 +5,7 @@ import json
 path = r'C:\PersonalProjects\PythonSnippets\Files\usagov.txt'
 records = [json.loads(line) for line in open(path)]
 
+'''This is a Git demo test'''
 
 def reccounting():
 
