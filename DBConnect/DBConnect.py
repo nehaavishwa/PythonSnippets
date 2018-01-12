@@ -1,6 +1,6 @@
 import pypyodbc
 import json as j
-connection = pypyodbc.connect('Driver={SQL Server}; Server=NVSHWAKARMA7X64\\NEHAA; Database=TestDB; uid=sa;pwd=Nehaa2009!')
+connection = pypyodbc.connect('Driver={SQL Server}; Server=NVSHWAKARMA7X64\\NEHAA; Database=TestDB; uid=sa;pwd=HelloWorld')
 cursor = connection.cursor()
 
 SQLCommand = ("SELECT TOP 10 Date ,Hour, [Requests], [Completes] FROM [TestDB].[dbo].[Analytics2] ")
